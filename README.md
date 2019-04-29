@@ -24,3 +24,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ![Next-Game Select Game 1](/assets/select-game-1.png)
 ![Next-Game Select Game 5](/assets/select-game-5.png)
 ![Next-Game Saved Game](/assets/saved-games.png)
+
+## Dependencies
+
+* Font Awesome
+* Axios
+* Bootstrap
+* JSON-loader
+* React
+* react-accessible-accordion
+* react-bootstrap
+* react-datepicker
+* react-google-maps
+* react-slick
+* slick-carousel
+* sweetalert2
